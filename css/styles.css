@@ -57,4 +57,18 @@ a, a:hover {
 
 .carousel {
   border: solid #5637DD;
+  border-radius: 33px;
+}
+
+#accordion1, #accordion2, #accordion3{
+  border: 1px solid black;
+  border-bottom: none;
+}
+
+#accordion4 {
+  border: 1px solid black;
+}
+
+#carousel1, #carousel2, #carousel3 {
+border-radius: 30px
 }
